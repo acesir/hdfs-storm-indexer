@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="tessdata">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/src/main/java/com/hortonworks/demo/tesseract/tessdata" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
