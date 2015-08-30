@@ -34,7 +34,7 @@ public class TesseractBolt extends BaseRichBolt {
 
     public void execute(Tuple tuple) {
         try {
-            System.out.println("I GOT THE FUCKING BOLT STREAM: " + tuple.getValueByField("image").toString());
+            System.out.println("Got emited SolrBolt stream: " + tuple.getValueByField("image").toString());
             DocumentUpdate(tuple.getValueByField("image").toString());
             _collector.ack(tuple);
 
