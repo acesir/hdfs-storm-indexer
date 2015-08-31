@@ -6,7 +6,7 @@ using Thrift.Transport;
 using Thrift.Protocol;
 using System.Text;
 
-namespace FiservFileSearch
+namespace FileSearch
 {
     public class CallHBase
     {

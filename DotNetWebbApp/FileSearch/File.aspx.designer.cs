@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace FiservFileSearch
+namespace FileSearch
 {
 
 

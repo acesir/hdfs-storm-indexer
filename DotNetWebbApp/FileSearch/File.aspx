@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="File.aspx.cs" Inherits="FiservFileSearch.File" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="File.aspx.cs" Inherits="FileSearch.File" %>
 
 <!DOCTYPE html>
 

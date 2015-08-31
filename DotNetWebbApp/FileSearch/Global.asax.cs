@@ -6,7 +6,7 @@ using System.Web;
 using System.Web.Security;
 using System.Web.SessionState;
 
-namespace FiservFileSearch
+namespace FileSearch
 {
     public class Global : System.Web.HttpApplication
     {

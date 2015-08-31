@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-namespace FiservFileSearch
+namespace FileSearch
 {
     public partial class File : System.Web.UI.Page
     {

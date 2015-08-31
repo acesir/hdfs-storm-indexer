@@ -1,1 +1,1 @@
-﻿<%@ Application Codebehind="Global.asax.cs" Inherits="FiservFileSearch.Global" Language="C#" %>
+﻿<%@ Application Codebehind="Global.asax.cs" Inherits="FileSearch.Global" Language="C#" %>

@@ -18,7 +18,7 @@ using Thrift.Protocol;
 using System.Web.Services;
 using System.Web.Script.Services;
 
-namespace FiservFileSearch
+namespace FileSearch
 {
     public partial class Main : System.Web.UI.Page
     {
