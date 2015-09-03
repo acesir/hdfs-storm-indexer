@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="tess4j">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/main/java/com/hortonworks/demo/tesseract/lib/tess4j.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

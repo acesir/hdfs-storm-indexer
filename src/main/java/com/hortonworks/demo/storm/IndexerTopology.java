@@ -13,7 +13,7 @@ public class IndexerTopology {
     public static void main( String[] args) {
 
         Config conf = new Config();
-        conf.put("hdfsUri", "hdfs://adis-dal01.cloud.hortonworks.com:8020");
+        conf.put("hdfsUri", "hdfs://node1.hadoop.com:8020");
         conf.put("hdfsPath", "/falcon");
         conf.put("solrHost", "http://adis-dal06.cloud.hortonworks.com:8983/solr/fiserv");
         conf.put("zooKeeper", "adis-dal01.cloud.hortonworks.com,adis-dal02.cloud.hortonworks.com,adis-dal03.cloud.hortonworks.com");

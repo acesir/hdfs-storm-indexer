@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.hortonworks.demo</groupId>
-  <artifactId>hdfs-indexer</artifactId>
+  <artifactId>hdfs-storm-indexer</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
